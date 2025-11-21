@@ -1,4 +1,4 @@
 # DineshLodhi-Demo
 This is my first Git repository.
 <br>
-Author- Dinesh Lodhi
+Author- Dinesh Lodhi(Rajput)
